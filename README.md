@@ -10,11 +10,11 @@ Thank you for visiting the Python Data Analysis Repository. This repository is p
 # Introduction
 You can find a range of Python scripts and Jupyter notebooks in this repository that addresses various facets of data analysis. I have worked hard to cover a broad range of topics to help you get insights from your data and make wise decisions, from data cleaning and preprocessing to exploratory data analysis and statistical modeling.
 # Features
-## Numpy and Pandas: Understanding the power of working with numerical and DataFrame libraries. 
-## Data cleaning and preprocessing: Explore various techniques and libraries for cleaning and preparing your data before analysis.
-## Exploratory data analysis: Learn how to visualize and explore datasets to gain insights and identify patterns.
-## Statistical analysis: Dive into statistical modeling techniques to uncover relationships and draw conclusions from your data.
-## Visualization: Discover ways to effectively communicate your findings through visually appealing and informative plots and charts.
+  # Numpy and Pandas: Understanding the power of working with numerical and DataFrame libraries. 
+  # Data cleaning and preprocessing: Explore various techniques and libraries for cleaning and preparing your data before analysis.
+  # Exploratory data analysis: Learn how to visualize and explore datasets to gain insights and identify patterns.
+  # Statistical analysis: Dive into statistical modeling techniques to uncover relationships and draw conclusions from your data.
+  # Visualization: Discover ways to effectively communicate your findings through visually appealing and informative plots and charts.
 # Getting Started
 To get started with the Python Data Analysis Repository, follow these steps:
 Clone the repository to your local machine using the following command:
